@@ -1,0 +1,26 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+  background: #000; 
+}
+.nav-pills .nav-item .nav-link {
+  background-color: #000;
+  color: #6C757D;
+}
+
+.nav-pills .nav-item .nav-link.active {
+  color: #000;
+  background-color: #6C757D;
+}
+
+/* .tab-content {
+  border: 1px solid #dee2e6;
+  border-top: transparent;
+  padding: 15px;
+}
+
+.tab-content .tab-pane {
+  background-color: #FFF;
+  color: #0080FF;
+  min-height: 200px;
+  height: auto;
+} */
